@@ -34,7 +34,7 @@ Best User Bot To Manage Your Telegram Account
 Simply clone the repository and run the main file:
 ```sh
 git clone https://github.com/xzendercage/cageuserx
-cd Userxuserbot
+cd cageuserx
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
