@@ -1,11 +1,11 @@
 # CAGE-USERBOT
 
 <p align="center">
-<img src="https://telegra.ph/file/22535f8051a58af113586.jpg" alt="USERX USERBOT">
+<img src="https://telegra.ph/file/2253s5f8051a58af113586.jpg" alt="USERX USERBOT">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![forthebadge made-with-swag](https://forthebadge.com/images/badges/built-with-swag.svg)]
+![forthebadge made-with-swag(https://forthebadge.com/images/badges/built-with-swag.svg)]
 
 
 
