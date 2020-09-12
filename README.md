@@ -1,11 +1,12 @@
-# CAGE-USERBOT
+# CAGE USER X
 
 <p align="center">
-<img src="https://telegra.ph/file/2253s5f8051a58af113586.jpg" alt="USERX USERBOT">
+<img src="https://telegra.ph/file/2c62695e201c3efe17289.jpg" alt="USERX USER">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ![forthebadge made-with-swag](https://forthebadge.com/images/badges/built-with-swag.svg)
+![forthebadge work-in-my-machine](https://forthebadge.com/images/badges/works-on-my-machine.svg)
 
 
 
@@ -33,7 +34,7 @@ Best User Bot To Manage Your Telegram Account
 Simply clone the repository and run the main file:
 ```sh
 git clone https://github.com/xzendercage/cageuserx
-cd USERXUserbot
+cd Userxuserbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
