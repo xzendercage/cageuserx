@@ -5,7 +5,7 @@
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![forthebadge made-with-swag](https://forthebadge.com/images/badges/built-with-swag.svg)
+![forthebadge made-with-swag](https://forthebadge.com/images/badges/built-with-swag.svg)
 
 
 
