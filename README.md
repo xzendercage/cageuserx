@@ -15,10 +15,6 @@ Best User Bot To Manage Your Telegram Account
 
 ## © By 彡Xzͥenͣdͫer Cage彡™
 
-## HOW TO DEPLOY 
-
-<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
-
 
 ### Host USERX In Heroku
 
